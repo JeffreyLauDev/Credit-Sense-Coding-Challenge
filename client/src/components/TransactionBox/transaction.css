@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+.transaction{
+    font-family: 'Open Sans', sans-serif;
+}
+.transaction-card{
+    background-color: #0098ca;
+    padding:10px 20px
+}
+.transaction-card h3,.transaction-card p,.transaction-card h2{
+    margin:0;
+    color:white
+}
+
+
+.top-part{
+    display: flex;
+    justify-content: space-between;
+}
+
+.d-flex{
+    display: flex;
+}
+.transaction-history table{
+    width: 100%;
+    border: 0;
+}
+.transaction-history table tr{
+    background-color: #cdfefe;
+    
+}
+.transaction-history table tr:nth-child(2n){
+    background-color: #e9fefd;
+}
+
+.transaction-history table tr td:last-child{
+    text-align: right;
+}
+
+.transaction-history input{
+    border:unset !important
+}
+
+.transaction-description, .transaction-amount,.transaction-submit{
+    font-size: 16px;
+}
+.transaction-description{
+    width:100%
+}
+
+.transaction-amount{
+    width:100px
+}
+
+.transaction-submit{
+    width:100px;
+    color:white;
+
+    background-color: #5def60;
+}
