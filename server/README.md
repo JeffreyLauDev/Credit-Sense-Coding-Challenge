@@ -1,4 +1,4 @@
-# Getting Started with Credit Sense Technical server 
+# Getting Started with Credit Sense Technical Server 
 ## Installation Scripts
     $ npm install
 

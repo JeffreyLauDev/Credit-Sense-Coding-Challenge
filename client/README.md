@@ -1,4 +1,4 @@
-# Getting Started with Credit Sense Technical server 
+# Getting Started with Credit Sense Technical Client 
 ## Installation Scripts
     $ yarn
 
